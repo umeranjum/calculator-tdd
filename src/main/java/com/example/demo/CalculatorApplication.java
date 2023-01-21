@@ -10,6 +10,9 @@ public class CalculatorApplication {
 		SpringApplication.run(CalculatorApplication.class, args);
 //		NumberGuessingGame numberGuessingGame = new NumberGuessingGame();
 //		numberGuessingGame.start();
+
+//		RockPaperScissors rps = new RockPaperScissors();
+//		rps.play();
 	}
 
 }
