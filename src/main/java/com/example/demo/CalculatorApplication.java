@@ -13,6 +13,9 @@ public class CalculatorApplication {
 
 //		RockPaperScissors rps = new RockPaperScissors();
 //		rps.play();
+
+//		NumberCasting numberCasting = new NumberCasting();
+//		numberCasting.start();
 	}
 
 }
